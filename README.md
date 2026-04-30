@@ -21,7 +21,7 @@ S3 → Bronze Layer → 🧠 Agent Layer (inside Silver) → Silver Layer → Go
 ```
 
 <img src = "img/img.png">
-
+<img src = "img/pipeline.png">
 ### ⚙️ Key Characteristics
 
 * Event-driven / scheduled execution (Databricks Workflows)
